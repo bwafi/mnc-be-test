@@ -1,0 +1,16 @@
+[
+  {
+    "customer_id": "1",
+    "action": "Transfer",
+    "amount": 100000,
+    "timestamp": "2024-10-05T20:36:19.037223008+07:00",
+    "details": "Transfer to customer ID 2"
+  },
+  {
+    "customer_id": "1",
+    "action": "Transfer",
+    "amount": 100000,
+    "timestamp": "2024-10-05T20:46:13.809701971+07:00",
+    "details": "Transfer to customer ID 2"
+  }
+]
